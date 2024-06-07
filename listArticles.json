@@ -1,122 +1,152 @@
 [
   {
     "name": "Western Digital WD Blue SN580 NVMe SSD 1TB, M.2 2280 / M-Key / PCIe 4.0 x4",
-    "link": "https://geizhals.de/western-digital-wd-blue-sn580-nvme-ssd-1tb-wds100t3b0e-a2975634.html"
+    "link": "https://geizhals.de/western-digital-wd-blue-sn580-nvme-ssd-1tb-wds100t3b0e-a2975634.html",
+    "actualPrice": "€ 62,90"
   },
   {
     "name": "Western Digital WD_BLACK SN850X NVMe SSD 2TB, M.2 2280 / M-Key / PCIe 4.0 x4",
-    "link": "https://geizhals.de/western-digital-wd-black-sn850x-nvme-ssd-2tb-wds200t2x0e-00bca0-a2770177.html"
+    "link": "https://geizhals.de/western-digital-wd-black-sn850x-nvme-ssd-2tb-wds200t2x0e-00bca0-a2770177.html",
+    "actualPrice": "€ 149,89"
   },
   {
     "name": "Western Digital WD Blue SN580 NVMe SSD 2TB, M.2 2280 / M-Key / PCIe 4.0 x4",
-    "link": "https://geizhals.de/western-digital-wd-blue-sn580-nvme-ssd-2tb-wds200t3b0e-a2975636.html"
-  },
-  {
-    "name": "Kingston KC3000 PCIe 4.0 NVMe SSD 2048GB, M.2 2280 / M-Key / PCIe 4.0 x4, Kühlkörper",
-    "link": "https://geizhals.de/kingston-kc3000-pcie-4-0-nvme-ssd-2tb-skc3000s-2048g-a2621457.html"
-  },
-  {
-    "name": "Mushkin Element NVMe SSD, M.2",
-    "link": "https://geizhals.de/mushkin-element-nvme-ssd-v117643.html"
-  },
-  {
-    "name": "Western Digital WD_BLACK SN770 NVMe SSD 1TB, M.2 2280 / M-Key / PCIe 4.0 x4",
-    "link": "https://geizhals.de/western-digital-wd-black-sn770-nvme-ssd-1tb-wds100t3x0e-a2672115.html"
+    "link": "https://geizhals.de/western-digital-wd-blue-sn580-nvme-ssd-2tb-wds200t3b0e-a2975636.html",
+    "actualPrice": "€ 108,00"
   },
   {
     "name": "Western Digital WD_BLACK SN770 NVMe SSD 2TB, M.2 2280 / M-Key / PCIe 4.0 x4",
-    "link": "https://geizhals.de/western-digital-wd-black-sn770-nvme-ssd-2tb-wds200t3x0e-a2672116.html"
+    "link": "https://geizhals.de/western-digital-wd-black-sn770-nvme-ssd-2tb-wds200t3x0e-a2672116.html",
+    "actualPrice": "€ 119,89"
+  },
+  {
+    "name": "Kingston KC3000 PCIe 4.0 NVMe SSD 2048GB, M.2 2280 / M-Key / PCIe 4.0 x4, Kühlkörper",
+    "link": "https://geizhals.de/kingston-kc3000-pcie-4-0-nvme-ssd-2tb-skc3000s-2048g-a2621457.html",
+    "actualPrice": "€ 149,88"
+  },
+  {
+    "name": "Western Digital WD_BLACK SN770 NVMe SSD 1TB, M.2 2280 / M-Key / PCIe 4.0 x4",
+    "link": "https://geizhals.de/western-digital-wd-black-sn770-nvme-ssd-1tb-wds100t3x0e-a2672115.html",
+    "actualPrice": "€ 69,00"
   },
   {
     "name": "Western Digital WD_BLACK SN850X NVMe SSD 4TB, M.2 2280 / M-Key / PCIe 4.0 x4",
-    "link": "https://geizhals.de/western-digital-wd-black-sn850x-nvme-ssd-4tb-wds400t2x0e-00bca0-a2770181.html"
+    "link": "https://geizhals.de/western-digital-wd-black-sn850x-nvme-ssd-4tb-wds400t2x0e-00bca0-a2770181.html",
+    "actualPrice": "€ 294,60"
   },
   {
     "name": "Western Digital WD_BLACK SN850X NVMe SSD 1TB, M.2 2280 / M-Key / PCIe 4.0 x4",
-    "link": "https://geizhals.de/western-digital-wd-black-sn850x-nvme-ssd-1tb-wds100t2x0e-00bca0-a2770162.html"
+    "link": "https://geizhals.de/western-digital-wd-black-sn850x-nvme-ssd-1tb-wds100t2x0e-00bca0-a2770162.html",
+    "actualPrice": "€ 79,90"
   },
   {
-    "name": "Kingston KC3000 PCIe 4.0 NVMe SSD 1TB, M.2 2280 / M-Key / PCIe 4.0 x4, Kühlkörper",
-    "link": "https://geizhals.de/kingston-kc3000-pcie-4-0-nvme-ssd-1tb-skc3000s-1024g-a2621456.html"
-  },
-  {
-    "name": "Western Digital WD_BLACK SN770M NVMe SSD 2TB, M.2 2230 / M-Key / PCIe 4.0 x4",
-    "link": "https://geizhals.de/western-digital-wd-black-sn770m-nvme-ssd-2tb-wdbdnh0020bbk-a3018721.html"
-  },
-  {
-    "name": "GIGABYTE NVMe SSD M.2 2280, M.2",
-    "link": "https://geizhals.de/gigabyte-nvme-ssd-m-2-2280-v56522.html"
-  },
-  {
-    "name": "Western Digital WD Green SN350 NVMe SSD 2TB, M.2 2280 / M-Key / PCIe 3.0 x4",
-    "link": "https://geizhals.de/western-digital-wd-green-sn350-nvme-ssd-2tb-wds200t3g0c-a2589705.html"
-  },
-  {
-    "name": "Western Digital WD_BLACK SN850X NVMe SSD 2TB, M.2 2280 / M-Key / PCIe 4.0 x4, retail",
-    "link": "https://geizhals.de/western-digital-wd-black-sn850x-nvme-ssd-2tb-wdbb9g0020bnc-a2792589.html"
-  },
-  {
-    "name": "Kingston KC3000 PCIe 4.0 NVMe SSD 4TB, M.2 2280 / M-Key / PCIe 4.0 x4, Kühlkörper",
-    "link": "https://geizhals.de/kingston-kc3000-pcie-4-0-nvme-ssd-4tb-skc3000s-4096g-a2621458.html"
-  },
-  {
-    "name": "Western Digital WD_BLACK SN850X NVMe SSD 4TB, M.2 2280 / M-Key / PCIe 4.0 x4, retail",
-    "link": "https://geizhals.de/western-digital-wd-black-sn850x-nvme-ssd-4tb-wdbb9g0040bnc-a2812969.html"
-  },
-  {
-    "name": "Satechi USB4 NVMe SSD Pro SSD-Gehäuse, USB4",
-    "link": "https://geizhals.de/satechi-usb4-nvme-ssd-pro-ssd-gehaeuse-st-eu4npm-a3163783.html"
+    "name": "Mushkin Element NVMe SSD, M.2",
+    "link": "https://geizhals.de/mushkin-element-nvme-ssd-v117643.html",
+    "actualPrice": "€ 25,79"
   },
   {
     "name": "Western Digital WD Blue SN580 NVMe SSD 500GB, M.2 2280 / M-Key / PCIe 4.0 x4",
-    "link": "https://geizhals.de/western-digital-wd-blue-sn580-nvme-ssd-500gb-wds500g3b0e-a2975632.html"
+    "link": "https://geizhals.de/western-digital-wd-blue-sn580-nvme-ssd-500gb-wds500g3b0e-a2975632.html",
+    "actualPrice": "€ 45,80"
   },
   {
-    "name": "Western Digital WD_BLACK SN850X NVMe SSD 1TB, M.2 2280 / M-Key / PCIe 4.0 x4, retail",
-    "link": "https://geizhals.de/western-digital-wd-black-sn850x-nvme-ssd-1tb-wdbb9g0010bnc-a2792588.html"
+    "name": "Kingston KC3000 PCIe 4.0 NVMe SSD 1TB, M.2 2280 / M-Key / PCIe 4.0 x4, Kühlkörper",
+    "link": "https://geizhals.de/kingston-kc3000-pcie-4-0-nvme-ssd-1tb-skc3000s-1024g-a2621456.html",
+    "actualPrice": "€ 93,89"
   },
   {
-    "name": "Western Digital WD Blue SN570 NVMe SSD 1TB, M.2 2280 / M-Key / PCIe 3.0 x4",
-    "link": "https://geizhals.de/western-digital-wd-blue-sn570-nvme-ssd-1tb-wds100t3b0c-a2614238.html"
+    "name": "GIGABYTE NVMe SSD M.2 2280, M.2",
+    "link": "https://geizhals.de/gigabyte-nvme-ssd-m-2-2280-v56522.html",
+    "actualPrice": "€ 26,88"
   },
   {
-    "name": "SanDisk Ultra NVMe SSD G26, M.2",
-    "link": "https://geizhals.de/sandisk-ultra-nvme-ssd-g26-v104264.html"
+    "name": "Western Digital WD_BLACK SN770M NVMe SSD 2TB, M.2 2230 / M-Key / PCIe 4.0 x4",
+    "link": "https://geizhals.de/western-digital-wd-black-sn770m-nvme-ssd-2tb-wdbdnh0020bbk-a3018721.html",
+    "actualPrice": "€ 177,08"
   },
   {
-    "name": "Western Digital WD Blue SN570 NVMe SSD 2TB, M.2 2280 / M-Key / PCIe 3.0 x4",
-    "link": "https://geizhals.de/western-digital-wd-blue-sn570-nvme-ssd-2tb-wds200t3b0c-a2614242.html"
+    "name": "Satechi USB4 NVMe SSD Pro SSD-Gehäuse, USB4",
+    "link": "https://geizhals.de/satechi-usb4-nvme-ssd-pro-ssd-gehaeuse-st-eu4npm-a3163783.html",
+    "actualPrice": "€ 118,00"
   },
   {
-    "name": "Western Digital WD Blue SN570 NVMe SSD 1TB, M.2 2280 / M-Key / PCIe 3.0 x4, retail",
-    "link": "https://geizhals.de/western-digital-wd-blue-sn570-nvme-ssd-1tb-wdbb9e0010bnc-a2618147.html"
-  },
-  {
-    "name": "Mushkin Element NVMe SSD 4TB, M.2 2280 / M-Key / PCIe 3.0 x4",
-    "link": "https://geizhals.de/mushkin-element-nvme-ssd-4tb-mknssdev4tb-d8-a2849955.html"
-  },
-  {
-    "name": "Digitus M.2 NGFF / NVMe SSD PCI Express 3.0 x4 Add-On Card",
-    "link": "https://geizhals.de/digitus-m-2-ngff-nvme-ssd-pci-express-3-0-x4-add-on-card-ds-33170-a2315812.html"
-  },
-  {
-    "name": "Western Digital WD_BLACK SN750 NVMe SSD 1TB, M.2 2280 / M-Key / PCIe 3.0 x4",
-    "link": "https://geizhals.de/western-digital-wd-black-sn750-nvme-ssd-1tb-wds100t3x0c-00sjg0-dbrpg0010bnc-wrsn-a1969746.html"
+    "name": "Western Digital WD_BLACK SN850X NVMe SSD 2TB, M.2 2280 / M-Key / PCIe 4.0 x4, retail",
+    "link": "https://geizhals.de/western-digital-wd-black-sn850x-nvme-ssd-2tb-wdbb9g0020bnc-a2792589.html",
+    "actualPrice": "€ 361,07"
   },
   {
     "name": "Hyper HyperDrive USB4 NVMe SSD-Gehäuse, USB4",
-    "link": "https://geizhals.de/hyper-hyperdrive-usb4-nvme-ssd-gehaeuse-hd5001gl-a3116058.html"
+    "link": "https://geizhals.de/hyper-hyperdrive-usb4-nvme-ssd-gehaeuse-hd5001gl-a3116058.html",
+    "actualPrice": "€ 109,98"
   },
   {
-    "name": "Western Digital WD_BLACK SN850X NVMe SSD 2TB, M.2 2280 / M-Key / PCIe 4.0 x4, Kühlkörper",
-    "link": "https://geizhals.de/western-digital-wd-black-sn850x-nvme-ssd-2tb-wds200t2xhe-00bca0-a2770193.html"
+    "name": "Western Digital WD_BLACK SN850X NVMe SSD 4TB, M.2 2280 / M-Key / PCIe 4.0 x4, retail",
+    "link": "https://geizhals.de/western-digital-wd-black-sn850x-nvme-ssd-4tb-wdbb9g0040bnc-a2812969.html",
+    "actualPrice": "€ 699,99"
   },
   {
-    "name": "Kingston KC3000 PCIe 4.0 NVMe SSD 512GB, M.2 2280 / M-Key / PCIe 4.0 x4, Kühlkörper",
-    "link": "https://geizhals.de/kingston-kc3000-pcie-4-0-nvme-ssd-512gb-skc3000s-512g-a2621455.html"
+    "name": "SanDisk Ultra NVMe SSD G26, M.2",
+    "link": "https://geizhals.de/sandisk-ultra-nvme-ssd-g26-v104264.html",
+    "actualPrice": "€ 69,96"
+  },
+  {
+    "name": "Kingston KC3000 PCIe 4.0 NVMe SSD 4TB, M.2 2280 / M-Key / PCIe 4.0 x4, Kühlkörper",
+    "link": "https://geizhals.de/kingston-kc3000-pcie-4-0-nvme-ssd-4tb-skc3000s-4096g-a2621458.html",
+    "actualPrice": "€ 319,90"
+  },
+  {
+    "name": "Western Digital WD Green SN350 NVMe SSD 2TB, M.2 2280 / M-Key / PCIe 3.0 x4",
+    "link": "https://geizhals.de/western-digital-wd-green-sn350-nvme-ssd-2tb-wds200t3g0c-a2589705.html",
+    "actualPrice": "€ 113,26"
+  },
+  {
+    "name": "Graugear G-M2U4-40G-F USB4 SSD-Gehäuse für M.2 2280 NVMe SSD, USB4",
+    "link": "https://geizhals.de/graugear-g-m2u4-40g-f-usb4-ssd-gehaeuse-fuer-m-2-2280-nvme-ssd-18107-a3151819.html",
+    "actualPrice": "€ 91,94"
   },
   {
     "name": "Western Digital WD_BLACK SN770M NVMe SSD 1TB, M.2 2230 / M-Key / PCIe 4.0 x4",
-    "link": "https://geizhals.de/western-digital-wd-black-sn770m-nvme-ssd-1tb-wdbdnh0010bbk-a3018722.html"
+    "link": "https://geizhals.de/western-digital-wd-black-sn770m-nvme-ssd-1tb-wdbdnh0010bbk-a3018722.html",
+    "actualPrice": "€ 95,89"
+  },
+  {
+    "name": "Western Digital WD_BLACK SN850 NVMe SSD 1TB, M.2 2280 / M-Key / PCIe 4.0 x4, Kühlkörper, retail",
+    "link": "https://geizhals.de/western-digital-wd-black-sn850-nvme-ssd-1tb-wdbapz0010bnc-a2579730.html",
+    "actualPrice": "€ 139,99"
+  },
+  {
+    "name": "Western Digital WD_BLACK SN850X NVMe SSD 1TB, M.2 2280 / M-Key / PCIe 4.0 x4, retail",
+    "link": "https://geizhals.de/western-digital-wd-black-sn850x-nvme-ssd-1tb-wdbb9g0010bnc-a2792588.html",
+    "actualPrice": "€ 81,50"
+  },
+  {
+    "name": "Western Digital WD_BLACK SN850X NVMe SSD 2TB, M.2 2280 / M-Key / PCIe 4.0 x4, Kühlkörper",
+    "link": "https://geizhals.de/western-digital-wd-black-sn850x-nvme-ssd-2tb-wds200t2xhe-00bca0-a2770193.html",
+    "actualPrice": "€ 166,31"
+  },
+  {
+    "name": "Synology M.2 NVMe SSD für Synology-Systeme Enterprise-Serie",
+    "link": "https://geizhals.de/synology-m-2-nvme-ssd-fuer-synology-systeme-snv3000-serie-v80977.html",
+    "actualPrice": "€ 139,37"
+  },
+  {
+    "name": "Digitus M.2 NGFF / NVMe SSD PCI Express 3.0 x4 Add-On Card",
+    "link": "https://geizhals.de/digitus-m-2-ngff-nvme-ssd-pci-express-3-0-x4-add-on-card-ds-33170-a2315812.html",
+    "actualPrice": "€ 9,28"
+  },
+  {
+    "name": "Western Digital WD Blue SN570 NVMe SSD 1TB, M.2 2280 / M-Key / PCIe 3.0 x4, retail",
+    "link": "https://geizhals.de/western-digital-wd-blue-sn570-nvme-ssd-1tb-wdbb9e0010bnc-a2618147.html",
+    "actualPrice": "€ 66,00"
+  },
+  {
+    "name": "Western Digital WD_BLACK SN770 NVMe SSD 500GB, M.2 2280 / M-Key / PCIe 4.0 x4",
+    "link": "https://geizhals.de/western-digital-wd-black-sn770-nvme-ssd-500gb-wds500g3x0e-a2672114.html",
+    "actualPrice": "€ 56,70"
+  },
+  {
+    "name": "Mushkin Element NVMe SSD 4TB, M.2 2280 / M-Key / PCIe 3.0 x4",
+    "link": "https://geizhals.de/mushkin-element-nvme-ssd-4tb-mknssdev4tb-d8-a2849955.html",
+    "actualPrice": "€ 236,55"
   }
 ]
